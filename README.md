@@ -5,9 +5,9 @@
 
 <br/>
 
-### ✿ Estudante de Engenharia de Software | Em transição de carreira para tecnologia ✿
+### ✿ Estudante de Engenharia de Software ✿
 
-Aprendendo, praticando e construindo meu caminho na programação, um passo de cada vez. 🌷
+Aprendendo, praticando e construindo meu caminho na programação, um passo de cada vez. 
 
 </div>
 

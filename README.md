@@ -22,7 +22,7 @@ Aprendendo, praticando e construindo meu caminho na programação, um passo de c
 
 Acredito que aprender programação é um processo contínuo. Estou construindo minha base aos poucos, transformando cada exercício em uma oportunidade de aprender algo novo. 
 
-## 🧁 Tecnologias que estou estudando
+## Tecnologias que estou estudando
 
 <div align="center">
   <img alt="HTML5" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -38,7 +38,7 @@ Acredito que aprender programação é um processo contínuo. Estou construindo 
 
 ## 🌷 Meus projetos
 
-Ainda estou desenvolvendo meus primeiros projetos e exercícios. Esta seção vai crescer junto com meus estudos! 💗
+Ainda estou desenvolvendo meus primeiros projetos e exercícios. 💗
 
 <!-- Quando tiver projetos publicados, substitua os exemplos pelos links reais. -->
 | Projeto | O que estou praticando |

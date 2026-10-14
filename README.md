@@ -1,71 +1,58 @@
-```markdown
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Hello, World! — Livia, Engenharia de Software" />
+<!-- Salve a imagem de capa como banner.png no mesmo repositório deste README. -->
+<img src="./banner.png" alt="Banner pixel art rosa e lilás com uma garota programando e a frase Hello, World!" width="100%" />
 
-# ୨୧ Olá, eu sou a Lívia! ♡
+<br/>
 
-**Estudante de Engenharia de Software | Desenvolvedora Front-end em formação**
+### ✿ Desenvolvedora Front-End
 
-Aprendendo, praticando e construindo meu caminho na programação,
-um passo de cada vez. 🎀
+Aprendendo, praticando e construindo meu caminho na programação, um passo de cada vez. 🌷
 
 </div>
 
 ---
 
-## ♡ Sobre mim
+## Sobre mim
 
-<img align="right" src="./bonequinha.png" width="180" alt="Bonequinha pixel art programando" />
+- Sou estudante de **Engenharia de Software**.
+- Estou em **transição de carreira para a área de tecnologia**.
+- Atualmente, estou estudando **HTML, CSS e JavaScript**.
+- Uso este espaço para praticar, registrar minha evolução e compartilhar meus projetos de estudo.
 
-- 🎓 Estudante de **Engenharia de Software**.
-- 💻 Em transição de carreira para a área de tecnologia.
-- 🌷 Estudando desenvolvimento web e lógica de programação.
-- ✨ Gosto de aprender coisas novas e transformar ideias em projetos.
-- 💗 Buscando evoluir um pouquinho a cada dia.
+Acredito que aprender programação é um processo contínuo. Estou construindo minha base aos poucos, transformando cada exercício em uma oportunidade de aprender algo novo. 
 
-<br clear="right"/>
+## Tecnologias que estou estudando
+
+<div align="center">
+  <img alt="HTML5" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="CSS3" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  &nbsp;&nbsp;
+  <img alt="JavaScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/HTML5-Estudando-FFC6E5?style=flat-square&logo=html5&logoColor=8A356A" alt="HTML5 — estudando" />
+  <img src="https://img.shields.io/badge/CSS3-Estudando-E6C7FF?style=flat-square&logo=css3&logoColor=6B3A70" alt="CSS3 — estudando" />
+  <img src="https://img.shields.io/badge/JavaScript-Estudando-F8D66D?style=flat-square&logo=javascript&logoColor=493B00" alt="JavaScript — estudando" />
+</div>
+
+## 🌷 Meus projetos
+
+Ainda estou desenvolvendo meus primeiros projetos e exercícios. Esta seção vai crescer junto com meus estudos! 💗
+
+<!-- Quando tiver projetos publicados, substitua os exemplos pelos links reais. -->
+| Projeto | O que estou praticando |
+|:--|:--|
+| Exercícios de HTML | Estruturação de páginas |
+| Exercícios de CSS | Estilização e organização visual |
+| Exercícios de JavaScript | Fundamentos, funções e condicionais |
+
 
 ---
-
-## 🎀 Tecnologias que estou estudando
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-f8c8dc?style=for-the-badge&logo=html5&logoColor=8b3a62" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-e6d5ff?style=for-the-badge&logo=css3&logoColor=7651a8" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-f8c8dc?style=for-the-badge&logo=javascript&logoColor=8b3a62" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Git-e6d5ff?style=for-the-badge&logo=git&logoColor=7651a8" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-f8c8dc?style=for-the-badge&logo=github&logoColor=8b3a62" alt="GitHub" />
+### Obrigada por visitar meu perfil! 🌸
+
 
 </div>
-
----
-
-## 🌸 Meus projetos
-
-### 💗 Pink Finance
-Projeto de estudos voltado à organização financeira pessoal.
-
-### 🩺 ACS — SISVAN
-Ideia de projeto para facilitar a organização e o acompanhamento de informações no contexto da Atenção Básica.
-
-### ✨ Mais projetos em breve!
-Este espaço vai crescer junto com meu aprendizado. ♡
-
----
-
-## 🌙 Um pouquinho sobre minha jornada
-
-A tecnologia sempre esteve entre meus interesses e agora estou me dedicando a aprender programação e desenvolver minhas habilidades.
-
-Ainda estou no começo, mas cada exercício, erro corrigido e projeto concluído faz parte da minha evolução. 💜
-
-<div align="center">
-
-♡ Obrigada por visitar meu perfil! ♡
-
-**Feito com carinho, café e muitas linhas de código. ☕**
-
-</div>
-```

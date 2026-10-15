@@ -1,58 +1,82 @@
+<!-- Banner do topo (A cor é o ffc4d4) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc4d4&height=150&section=header" width="100%" />
+
+<!-- Título animado -->
 <div align="center">
-
-<!-- Salve a imagem de capa como banner.png no mesmo repositório deste README. -->
-<img src="./banner.png" alt="Banner pixel art rosa e lilás com uma garota programando e a frase Hello, World!" width="100%" />
-
-<br/>
-
-### ✿ Desenvolvedora Front-End
-
-Aprendendo, praticando e construindo meu caminho na programação, um passo de cada vez. 🌷
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&pause=1000&color=df7e98&center=true&vCenter=true&width=500&lines=Hello,+World!" alt="Hello World Animado" />
+  </a>
 </div>
 
----
+<br>
 
-## Sobre mim
+### Sobre mim 𖹭
 
-- Sou estudante de **Engenharia de Software**.
-- Estou em **transição de carreira para a área de tecnologia**.
-- Atualmente, estou estudando **HTML, CSS e JavaScript**.
-- Uso este espaço para praticar, registrar minha evolução e compartilhar meus projetos de estudo.
+<table>
+  <tr>
+    <td align="center" width="200">
+      <!-- Cole o link da sua bonequinha do GitHub AQUI -->
+     <img width="501" height="498" alt="WhatsApp_Image_2026-10-14_at_21 21 33-removebg-preview" src="https://github.com/user-attachments/assets/7f14bc06-d754-4e3a-b62e-3607d1331339" />
+    </td>
+    <td>
+      <ul>
+        <li>Sou estudante de <b>Engenharia de Software</b>.</li>
+        <li>Estou em <b>transição de carreira</b> para a área de tecnologia.</li>
+        <li>Atualmente estou estudando <b>HTML, CSS e JavaScript</b>.</li>
+      </ul>
+      <p>Acredito que a programação é um processo contínuo. Estou construindo minha base aos poucos, transformando cada exercício em uma oportunidade de aprender algo novo.</p>
+    </td>
+  </tr>
+</table>
 
-Acredito que aprender programação é um processo contínuo. Estou construindo minha base aos poucos, transformando cada exercício em uma oportunidade de aprender algo novo. 
+<br>
 
-## Tecnologias que estou estudando
-
-<div align="center">
-  <img alt="HTML5" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="CSS3" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="JavaScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/HTML5-Estudando-FFC6E5?style=flat-square&logo=html5&logoColor=8A356A" alt="HTML5 — estudando" />
-  <img src="https://img.shields.io/badge/CSS3-Estudando-E6C7FF?style=flat-square&logo=css3&logoColor=6B3A70" alt="CSS3 — estudando" />
-  <img src="https://img.shields.io/badge/JavaScript-Estudando-F8D66D?style=flat-square&logo=javascript&logoColor=493B00" alt="JavaScript — estudando" />
-</div>
-
-## 🌷 Meus projetos
-
-Ainda estou desenvolvendo meus primeiros projetos e exercícios. Esta seção vai crescer junto com meus estudos! 💗
-
-<!-- Quando tiver projetos publicados, substitua os exemplos pelos links reais. -->
-| Projeto | O que estou praticando |
-|:--|:--|
-| Exercícios de HTML | Estruturação de páginas |
-| Exercícios de CSS | Estilização e organização visual |
-| Exercícios de JavaScript | Fundamentos, funções e condicionais |
-
-
----
+### Minhas tecnologias
 
 <div align="center">
-
-### Obrigada por visitar meu perfil! 🌸
-
-
+  <!-- Símbolos -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Caixinhas com os nomes -->
+  <img src="https://img.shields.io/badge/HTML5-ffc4d4?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-ffc4d4?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-ffc4d4?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
+
+<br>
+
+### Estatísticas do GitHub
+
+<div align="center">
+  <!-- Card de Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=liviaferr4z&theme=radical&hide_border=true&background=0D1117&ring=ffc4d4&fire=ffc4d4&currStreakNum=C9D1D9&currStreakLabel=ffc4d4&sideNums=C9D1D9&sideLabels=ffc4d4&dates=ffc4d4&locale=pt_BR" />
+  <!-- Card de Linguagens -->
+  <img height="180em" src="src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaferr4z&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ffc4d4&text_color=C9D1D9&locale=pt-br&hide=c" />
+</div>
+
+<br>
+
+### 🎀 Conecte-se comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/liviaferrazr" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=Linkedin&logoColor=ffc4d4&color=0D1117">
+  </a> 
+  <a href="mailto:liviaroch4f@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=Gmail&logoColor=ffc4d4&color=0D1117">
+  </a>
+</div>
+
+<<!-- Frase animada de agradecimento na cor branca -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Obrigada+por+visitar+meu+perfil!" alt="Obrigada animado" />
+  </a>
+</div>
+
+<!-- Banner do rodapé (A cor é o ffc4d4) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc4d4&height=100&section=footer" width="100%" />
